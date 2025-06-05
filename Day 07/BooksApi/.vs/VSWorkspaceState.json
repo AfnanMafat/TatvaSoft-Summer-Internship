@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BooksApi",
+    "\\BooksApi.Data",
+    "\\BooksApi.Entities",
+    "\\BooksApi.Services"
+  ],
+  "SelectedNode": "\\BooksApi\\appsettings.Development.json",
+  "PreviewInSolutionExplorer": false
+}
