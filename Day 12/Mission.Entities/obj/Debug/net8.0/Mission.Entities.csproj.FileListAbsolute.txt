@@ -40,3 +40,18 @@ C:\Users\hp\Desktop\Mission\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mis
 C:\Users\hp\Desktop\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
 C:\Users\hp\Desktop\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.genruntimeconfig.cache
 C:\Users\hp\Desktop\Mission\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Entities\bin\Debug\net8.0\Mission.Entities.runtimeconfig.json
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Entities\obj\Debug\net8.0\Mission.Entities.sourcelink.json
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Entities\obj\Debug\net8.0\Mission.Entities.genruntimeconfig.cache
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll

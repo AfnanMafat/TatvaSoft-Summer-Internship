@@ -84,5 +84,31 @@ namespace Mission.Services.Services
         {
             return await _missionRepository.MissionApplicationApprove(missionApplication);
         }
+
+        public async Task<bool> UpdateMission(MissionRequestViewModel model)
+        {
+            var mission = new Missions()
+            {
+                Id = model.Id, // Required for tracking
+                CityId = model.CityId,
+                CountryId = model.CountryId,
+                EndDate = model.EndDate,
+                MissionDescription = model.MissionDescription,
+                MissionImages = model.MissionImages,
+                MissionSkillId = model.MissionSkillId,
+                MissionThemeId = model.MissionThemeId,
+                MissionTitle = model.MissionTitle,
+                StartDate = model.StartDate,
+                TotalSheets = model.TotalSeats,
+            };
+
+            return await _missionRepository.UpdateMission(mission);
+        }
+
+        public async Task<bool> DeleteMission(int id)
+        {
+            return await _missionRepository.DeleteMission(id);
+        }
+
     }
 }

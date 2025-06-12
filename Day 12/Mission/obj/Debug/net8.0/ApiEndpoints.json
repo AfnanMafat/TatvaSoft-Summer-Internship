@@ -273,6 +273,22 @@
   },
   {
     "ContainingType": "Mission.Controllers.MissionController",
+    "Method": "DeleteMission",
+    "RelativePath": "api/Mission/DeleteMission/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mission.Controllers.MissionController",
     "Method": "MissionApplicationApprove",
     "RelativePath": "api/Mission/MissionApplicationApprove",
     "HttpMethod": "POST",
@@ -321,6 +337,22 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mission.Controllers.MissionController",
+    "Method": "UpdateMission",
+    "RelativePath": "api/Mission/UpdateMission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Mission.Entities.Models.MissionRequestViewModel",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {

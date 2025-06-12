@@ -14,5 +14,9 @@ namespace Mission.Repositories.IRepositories
 
         List<MissionApplication> GetMissionApplicationList();
         Task<bool> MissionApplicationApprove(UpdateMissionApplicationModel missionApplication);
+
+        Task<bool> UpdateMission(Missions mission);
+        Task<bool> DeleteMission(int id);
+
     }
 }

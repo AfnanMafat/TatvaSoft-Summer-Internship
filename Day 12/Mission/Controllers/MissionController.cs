@@ -58,5 +58,22 @@ namespace Mission.Controllers
                 return BadRequest(new ResponseResult() { Data = null, Message = ex.Message, Result = ResponseStatus.Error });
             }
         }
+
+        [HttpPost]
+        [Route("UpdateMission")]
+        public async Task<IActionResult> UpdateMission(MissionRequestViewModel model)
+        {
+            var result = await _missionService.UpdateMission(model);
+            return Ok(new ResponseResult() { Data = result, Result = ResponseStatus.Success, Message = "Mission updated successfully" });
+        }
+
+        [HttpDelete]
+        [Route("DeleteMission/{id:int}")]
+        public async Task<IActionResult> DeleteMission(int id)
+        {
+            var result = await _missionService.DeleteMission(id);
+            return Ok(new ResponseResult() { Data = result, Result = ResponseStatus.Success, Message = "Mission deleted successfully" });
+        }
+
     }
 }

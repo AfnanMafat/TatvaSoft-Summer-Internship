@@ -13,5 +13,9 @@ namespace Mission.Services.IServices
         Task<bool> ApplyMission(AddMissionApplicationRequestModel model);
         List<MissionApplication> GetMissionApplicationList();
         Task<bool> MissionApplicationApprove(UpdateMissionApplicationModel missionApplication);
+
+        Task<bool> UpdateMission(MissionRequestViewModel model);
+        Task<bool> DeleteMission(int id);
+
     }
 }

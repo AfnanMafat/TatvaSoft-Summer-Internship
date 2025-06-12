@@ -157,5 +157,57 @@ namespace Mission.Repositories.Repositories
             await _dbContext.SaveChangesAsync();
             return true;
         }
+
+        public async Task<bool> UpdateMission(Missions model)
+        {
+            try
+            {
+                var mission = await _dbContext.Missions.FindAsync(model.Id);
+                if (mission == null) throw new Exception("Mission not found");
+
+                mission.MissionTitle = model.MissionTitle;
+                mission.MissionDescription = model.MissionDescription;
+                mission.MissionImages = model.MissionImages;
+                mission.StartDate = model.StartDate;
+                mission.EndDate = model.EndDate;
+                mission.CountryId = model.CountryId;
+                mission.CityId = model.CityId;
+                mission.TotalSheets = model.TotalSheets;
+                mission.MissionThemeId = model.MissionThemeId;
+                mission.MissionSkillId = model.MissionSkillId;
+                mission.ModifiedDate = DateTime.Now;
+
+                _dbContext.Missions.Update(mission);
+                await _dbContext.SaveChangesAsync();
+
+                return true;
+            }
+            catch
+            {
+                throw;
+            }
+        }
+
+        public async Task<bool> DeleteMission(int id)
+        {
+            try
+            {
+                var mission = await _dbContext.Missions.FindAsync(id);
+                if (mission == null) throw new Exception("Mission not found");
+
+                mission.IsDeleted = true;
+                mission.ModifiedDate = DateTime.Now;
+
+                _dbContext.Missions.Update(mission);
+                await _dbContext.SaveChangesAsync();
+
+                return true;
+            }
+            catch
+            {
+                throw;
+            }
+        }
+
     }
 }

@@ -49,3 +49,21 @@ C:\Users\hp\Desktop\Mission\Mission\Mission.Services\obj\Debug\net8.0\Mission.Se
 C:\Users\hp\Desktop\Mission\Mission\Mission.Services\obj\Debug\net8.0\refint\Mission.Services.dll
 C:\Users\hp\Desktop\Mission\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.pdb
 C:\Users\hp\Desktop\Mission\Mission\Mission.Services\obj\Debug\net8.0\ref\Mission.Services.dll
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\bin\Debug\net8.0\Mission.Services.deps.json
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\bin\Debug\net8.0\Mission.Services.dll
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\bin\Debug\net8.0\Mission.Services.pdb
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\obj\Debug\net8.0\Mission.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfo.cs
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\obj\Debug\net8.0\Mission.Services.sourcelink.json
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\obj\Debug\net8.0\Mission..F9A2C6AE.Up2Date
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\obj\Debug\net8.0\Mission.Services.dll
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\obj\Debug\net8.0\refint\Mission.Services.dll
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\obj\Debug\net8.0\Mission.Services.pdb
+C:\Users\hp\Desktop\Computer Engineering\Tatvasoft Summer Internship\Day 12\Mission.Services\obj\Debug\net8.0\ref\Mission.Services.dll
